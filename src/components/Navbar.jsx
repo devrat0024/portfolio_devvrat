@@ -13,7 +13,7 @@ export default function Navbar() {
             animate={{ y: 0 }}
             className="absolute w-full z-50 py-6"
         >
-            <div className="w-full px-6 md:px-12 flex justify-between items-center">
+            <div className="container flex justify-between items-center">
                 <Link to="/" className="text-2xl font-bold text-black tracking-tighter">
                     Devvrat.
                 </Link>
